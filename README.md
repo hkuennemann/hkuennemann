@@ -9,7 +9,7 @@
 **Skills:**
 `Python`, `Data Analysis`, `Machine Learning`, `Data Visualization`, `Data Wrangling`.
 
-**Projects completed during my M.Sc. in Business Analytics:** [GitHub-BA_MSc](https://github.com/hkuennemann/MSc_BA_Projects)
+**Projects completed during my M.Sc. in Business Analytics:** [MSc_BA_Projects](https://github.com/hkuennemann/MSc_BA_Projects)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

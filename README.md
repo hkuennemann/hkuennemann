@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hendrik Künnemann</h1>
 <h3 align="center">A passionate Data Scientist from Germany</h3>
 
+- 🎓 B.Sc. Econometrics and Operations Research @ Maastricht University | M.Sc. Business Analytics @ NOVA SBE
+- 🔎 I have a strong interest in Machine Learning and Data Science, and I enjoy exploring data-driven solutions to various challenges.
 - 📫 How to reach me **h.kuennemann2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

@@ -5,7 +5,7 @@
 - 🔎 I have a strong interest in Data Scientist and Machine Learning, and I enjoy exploring data-driven solutions to various challenges.
 - 📫 How to reach me **h.kuennemann2001@gmail.com**
 
-** Skills:**
+**Skills:**
 `Python`, `Data Analysis`, `Machine Learning`, `Data Visualization`, `Data Wrangling`.
 
 <h3 align="left">Connect with me:</h3>

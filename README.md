@@ -47,7 +47,7 @@ Looking ahead, I aim to further specialize in Data Science and Machine Learning,
 <a href="https://linkedin.com/in/hendrik-kuennemann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hendrik kuennemann" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">⚙️⚙ Languages and Tools:</h2>
+<h2 align="left">⚙️ Languages and Tools:</h2>
 
 <p align="left">
 

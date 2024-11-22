@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hendrik 👋🧑‍💻</h1>
 <h3 align="center">Passionate about Data Science and Machine Learning</h3>
 
-<h2 align="left">Quick facts</h2>
+<h2 align="left">📝 Quick facts</h2>
 
 - 🎓 B.Sc. Econometrics and Operations Research @ Maastricht University |\
 🎓 M.Sc. Business Analytics @ NOVA SBE
@@ -10,7 +10,7 @@
 - 📍 Oxford, UK
 - 📫 How to reach me: **h.kuennemann2001@gmail.com**
 
-<h2 align="left">About me</h2>
+<h2 align="left">🙋‍♂️ About me</h2>
 
 With a strong foundation in Econometrics and Operations Research from Maastricht University, where I graduated Cum Laude, my academic and professional journey has become increasingly technical while maintaining a connection to business and entrepreneurship. During my bachelor's studies, I developed a solid understanding of quantitative analysis and mathematical modeling, which sparked my interest in solving complex, data-intensive challenges.
 
@@ -18,11 +18,11 @@ To deepen my expertise, I pursued a Master's in Business Analytics at Nova Schoo
 
 Looking ahead, I aim to further specialize in Data Science and Machine Learning, focusing on developing and deploying models to extract meaningful insights and drive data-driven decisions. My goal is to combine technical expertise with a problem-solving approach to address real-world challenges, pushing the boundaries of what data-driven technologies can achieve.
 
-<h2 align="left">Skills</h2>
+<h2 align="left">🌟 Skills</h2>
 
 `Python`, `Data Analysis`, `Machine Learning`, `Deep Learning`, `Computer Vision`.
 
-<h2 align="left">Projects completed during my M.Sc. in Business Analytics:</h2>
+<h2 align="left">💪 Projects completed during my M.Sc. in Business Analytics:</h2>
 
 [Project Overview](https://github.com/hkuennemann/MSc_BA_Projects)
 
@@ -41,13 +41,13 @@ Looking ahead, I aim to further specialize in Data Science and Machine Learning,
 - Web & Cloud Computing: [Link](https://github.com/hkuennemann/MSc_BA_Projects/tree/main/Web%20%26%20Cloud%20Computing/League%20Lense)
   - *Skills acquired:* `JavaScript`, `APIs`, `HTML structure`.
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">🤝 Connect with me:</h2>
 
 <p align="left">
 <a href="https://linkedin.com/in/hendrik-kuennemann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hendrik kuennemann" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">⚙️⚙ Languages and Tools:</h2>
 
 <p align="left">
 

@@ -12,12 +12,19 @@
 
 **Projects completed during my M.Sc. in Business Analytics:** [MSc_BA_Projects](https://github.com/hkuennemann/MSc_BA_Projects)
 - Machine Learning: [Link](https://github.com/hkuennemann/MSc_BA_Projects/tree/main/Machine%20Learning)
+  - *Skills acquired:* `Exploratory Data Analysis (EDA)`, `Data Cleaning`, `Data Quality Assessment`, `Feature Engineering`, `Predictive Modeling`, `Model Evaluation`, `Hyperparameter Tuning`, `Clustering`, `Customer Segmentation`, `Recommendation Systems`, `Collaborative Filtering`, `Decision Trees`, `Random Forest`, `Support Vector Machines (SVM)`, `Stochastic Gradient Descent (SGD)`, `Deep Learning`, `Convolutional Neural Networks (CNN)`, `Transfer Learning`, `Vision Transformers`, `Recurrent Neural Networks (RNN)`, `Long Short-Term Memory (LSTM)`, `BERT`, `TensorFlow`,`Keras`.
 - Advanced Data Analysis: [Link](https://github.com/hkuennemann/MSc_BA_Projects/tree/main/Advanced%20Data%20Analysis)
+  - *Skills acquired:* `Python programming`, `Data analysis`, `Pandas`, `Numpy`, `Matplotlib`, `Spark`, `regression`, `Dimensionality reduction (PCA, t-SNE)`, `classification techniques`, `clustering techniques`, `Data visualization`, `GPU acceleration (cuDF, cuML, cuGraph)`.
 - Advanced Programming: [Link](https://github.com/hkuennemann/MSc_BA_Projects/tree/main/Advanced%20Programming)
+  - *Skills acquired:* `Python programming`, `Object-oriented programming`, `Data analysis`, `Pandas`, `Code reusability`, `Style guides`, `Linting`, `Pytest`, `Unit testing`, `Version control`, `Git`, `Virtual environments`, `Conda`, `Big data`, `Dask`, `Sphinx`.
 - Data Curation: [Link](https://github.com/hkuennemann/MSc_BA_Projects/tree/main/Data%20Curation)
+  - *Skills acquired:* `Python programming`, `Data analysis`, `Pandas`, `Numpy`, `Matplotlib`, `data cleaning`, `Data visualization`.
 - Data Visualization: [Link](https://github.com/hkuennemann/MSc_BA_Projects/tree/main/Data%20Visualization/Olympic%20Games%20Dashboard)
+  - *Skills aquired:* `Tableau`, `Data visualization`, `Use of visual variables (color, size, shape)`, `Techniques for visualizing multivariate data`, `Storytelling with data visualizations`.
 - Network Analytics: [Link](https://github.com/hkuennemann/MSc_BA_Projects/tree/main/Network%20Analytics)
+  - *Skills acquired*: `Network analysis`, `Centrality measures`, `Graph theory`, `R programming`, `igraph package`, `ggplot2 package`. 
 - Web & Cloud Computing: [Link](https://github.com/hkuennemann/MSc_BA_Projects/tree/main/Web%20%26%20Cloud%20Computing/League%20Lense)
+  - *Skills acquired:* `JavaScript`, `DOM manipulation`, `dynamic content`, `fetch API`, `Promises`, `async/await`, `HTML structure`, `CSS integration`.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

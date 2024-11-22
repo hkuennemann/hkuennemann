@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about Data Science and Machine Learning</h3>
 
 - 🎓 B.Sc. Econometrics and Operations Research @ Maastricht University |\
-M.Sc. Business Analytics @ NOVA SBE
+🎓 M.Sc. Business Analytics @ NOVA SBE
 - 🔎 I have a strong interest in Data Science and Machine Learning, and I enjoy exploring data-driven solutions to various challenges.
 - 📍 Hagen, Germany | Maastricht, Netherlands | San Diego, USA | Lisbon, Portugal | Oxford, UK (current).
 - 📫 How to reach me **h.kuennemann2001@gmail.com**

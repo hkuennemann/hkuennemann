@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hendrik Künnemann</h1>
 <h3 align="center">Passionate about Data Science and Machine Learning</h3>
 
-- 🎓 B.Sc. Econometrics and Operations Research @ Maastricht University |
+- 🎓 B.Sc. Econometrics and Operations Research @ Maastricht University |\n
      M.Sc. Business Analytics @ NOVA SBE
 - 🔎 I have a strong interest in Data Science and Machine Learning, and I enjoy exploring data-driven solutions to various challenges.
 - 📍 Hagen, Germany | Maastricht, Netherlands | San Diego, USA | Lisbon, Portugal | Oxford, UK (current).

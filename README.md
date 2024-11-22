@@ -1,9 +1,12 @@
 <h1 align="center">Hi, I'm Hendrik 👋🧑‍💻</h1>
 <h3 align="center">Passionate about Data Science and Machine Learning</h3>
 
+<h3 align="left">Quick facts</h3>
+
 - 🎓 B.Sc. Econometrics and Operations Research @ Maastricht University |\
 🎓 M.Sc. Business Analytics @ NOVA SBE
 - 🔎 I have a strong interest in Data Science and Machine Learning, and I enjoy exploring data-driven solutions to various challenges.
+- 🌱 I am currently deeping my deep learning skills with PyTorch ([course link](https://www.learnpytorch.io/))
 - 📍 Oxford, UK
 - 📫 How to reach me: **h.kuennemann2001@gmail.com**
 

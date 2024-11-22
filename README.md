@@ -4,13 +4,20 @@
 - 🎓 B.Sc. Econometrics and Operations Research @ Maastricht University |\
 🎓 M.Sc. Business Analytics @ NOVA SBE
 - 🔎 I have a strong interest in Data Science and Machine Learning, and I enjoy exploring data-driven solutions to various challenges.
-- 📍 Hagen, Germany | Maastricht, Netherlands | San Diego, USA | Lisbon, Portugal | Oxford, UK (current).
-- 📫 How to reach me **h.kuennemann2001@gmail.com**
+- 📍 Oxford, UK
+- 📫 How to reach me: **h.kuennemann2001@gmail.com**
 
 **Skills:**
 `Python`, `Data Analysis`, `Machine Learning`, `Deep Learning`, `Computer Vision`.
 
 **Projects completed during my M.Sc. in Business Analytics:** [MSc_BA_Projects](https://github.com/hkuennemann/MSc_BA_Projects)
+- Machine Learning: [Link](https://github.com/hkuennemann/MSc_BA_Projects/tree/main/Machine%20Learning)
+- Advanced Data Analysis: [Link](https://github.com/hkuennemann/MSc_BA_Projects/tree/main/Advanced%20Data%20Analysis)
+- Advanced Programming: [Link](https://github.com/hkuennemann/MSc_BA_Projects/tree/main/Advanced%20Programming)
+- Data Curation: [Link](https://github.com/hkuennemann/MSc_BA_Projects/tree/main/Data%20Curation)
+- Data Visualization: [Link](https://github.com/hkuennemann/MSc_BA_Projects/tree/main/Data%20Visualization/Olympic%20Games%20Dashboard)
+- Network Analytics: [Link](https://github.com/hkuennemann/MSc_BA_Projects/tree/main/Network%20Analytics)
+- Web & Cloud Computing: [Link](https://github.com/hkuennemann/MSc_BA_Projects/tree/main/Web%20%26%20Cloud%20Computing/League%20Lense)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hendrik Künnemann</h1>
+<h1 align="center">Hi, I'm Hendrik 👋🧑‍💻</h1>
 <h3 align="center">Passionate about Data Science and Machine Learning</h3>
 
 - 🎓 B.Sc. Econometrics and Operations Research @ Maastricht University |\
@@ -6,6 +6,12 @@
 - 🔎 I have a strong interest in Data Science and Machine Learning, and I enjoy exploring data-driven solutions to various challenges.
 - 📍 Oxford, UK
 - 📫 How to reach me: **h.kuennemann2001@gmail.com**
+
+With a strong foundation in Econometrics and Operations Research from Maastricht University, where I graduated Cum Laude, my academic and professional journey has become increasingly technical while maintaining a connection to business and entrepreneurship. During my bachelor's studies, I developed a solid understanding of quantitative analysis and mathematical modeling, which sparked my interest in solving complex, data-intensive challenges.
+
+To deepen my expertise, I pursued a Master's in Business Analytics at Nova School of Business and Economics in Lisbon. This program allowed me to dive into advanced data science techniques and machine learning models while retaining a business-oriented perspective, aligning with my entrepreneurial mindset and desire to connect technical solutions to real-world applications.
+
+Looking ahead, I aim to further specialize in Data Science and Machine Learning, focusing on developing and deploying models to extract meaningful insights and drive data-driven decisions. My goal is to combine technical expertise with a problem-solving approach to address real-world challenges, pushing the boundaries of what data-driven technologies can achieve.
 
 **Skills:**
 `Python`, `Data Analysis`, `Machine Learning`, `Deep Learning`, `Computer Vision`.

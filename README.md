@@ -19,7 +19,9 @@ Looking ahead, I aim to further specialize in Data Science and Machine Learning,
 
 `Python`, `Data Analysis`, `Machine Learning`, `Deep Learning`, `Computer Vision`.
 
-<h3 align="left">Projects completed during my M.Sc. in Business Analytics: [All projects](https://github.com/hkuennemann/MSc_BA_Projects)</h3>
+<h3 align="left">Projects completed during my M.Sc. in Business Analytics:</h3>
+
+[Project Overview](https://github.com/hkuennemann/MSc_BA_Projects)
 
 - Machine Learning: [Link](https://github.com/hkuennemann/MSc_BA_Projects/tree/main/Machine%20Learning)
   - *Skills acquired:* `Exploratory Data Analysis (EDA)`, `Data Cleaning`, `Data Quality Assessment`, `Feature Engineering`, `Predictive Modeling`, `Model Evaluation`, `Hyperparameter Tuning`, `Clustering`, `Customer Segmentation`, `Recommendation Systems`, `Collaborative Filtering`, `Decision Trees`, `Random Forest`, `Support Vector Machines (SVM)`, `Stochastic Gradient Descent (SGD)`, `Deep Learning`, `Convolutional Neural Networks (CNN)`, `Transfer Learning`, `Vision Transformers`, `Recurrent Neural Networks (RNN)`, `Long Short-Term Memory (LSTM)`, `BERT`, `TensorFlow`,`Keras`.
